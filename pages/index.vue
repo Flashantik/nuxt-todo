@@ -226,8 +226,6 @@
     }
   }
 </script>
-<style scoped>
-</style>
 
 <style lang="scss">
 html {
