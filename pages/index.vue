@@ -230,6 +230,9 @@
 </style>
 
 <style lang="scss">
+html {
+    overflow-y: auto !important;
+}
 
 .circle{
   border-radius: 50%;
